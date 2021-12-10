@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Repo](https://github.com/ZeyadTa/Stats-Preview-Card-Component-Challenge)
-- Live Site URL: [Live Demo](https://zeyadta.github.io/Stats-Preview-Card-Component-Challenge/)
+- Solution URL: [Github Repo](https://github.com/ZeyadTarekk/Stats-Preview-Card-Component-Challenge)
+- Live Site URL: [Live Demo](https://ZeyadTarekk.github.io/Stats-Preview-Card-Component-Challenge/)
 
 ## My process
 
